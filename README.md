@@ -1,3 +1,13 @@
+# Version before Astra changes — frozen backup
+
+## [▶ Run the backup](https://coastguard-before-astra.knobbyalbum8.chatgpt.site)
+
+Sign in with your ChatGPT account to open the private hosted backup. This preserves application version `013fff722014729f4e044b0ce4060dbdfc3bbd57` for comparison with future changes.
+
+[Run the working project](https://gocoastnola.github.io/CoastGuardInteractive/) · [Working repository](https://github.com/gocoastnola/CoastGuardInteractive)
+
+---
+
 # CoastGuard Interactive (demo)
 
 An interactive, cinematic map of U.S. Coast Guard units — continental U.S., Alaska, Puerto Rico and Guam.
