@@ -1,8 +1,8 @@
 # Version before Astra changes — frozen backup
 
-## [▶ Run the backup](https://coastguard-before-astra.knobbyalbum8.chatgpt.site)
+## [▶ Run the backup](https://gocoastnola.github.io/Version-before-astra-pro/)
 
-Sign in with your ChatGPT account to open the private hosted backup. This preserves application version `013fff722014729f4e044b0ce4060dbdfc3bbd57` for comparison with future changes.
+GitHub Pages deployment files are on the `gh-pages` branch. Enable Pages under Settings → Pages using Deploy from a branch → `gh-pages` → `/ (root)` to activate the link. This preserves application version `013fff722014729f4e044b0ce4060dbdfc3bbd57` for comparison with future changes.
 
 [Run the working project](https://gocoastnola.github.io/CoastGuardInteractive/) · [Working repository](https://github.com/gocoastnola/CoastGuardInteractive)
 
